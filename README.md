@@ -5,6 +5,8 @@ FOR LOGIN:
 
 you can sign up and create an account to login.
 
+EVERYTHING (FOLDERS & FILES) ARE ALL CREATED UNDER SRC
+
 THANK YOU!
 
 
