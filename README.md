@@ -1,7 +1,11 @@
 
-For login:
+THIS IS THE TASK BUDDY ASSIGNMENT.
 
-you can sign up and create an account to login
+FOR LOGIN:
+
+you can sign up and create an account to login.
+
+THANK YOU!
 
 
 
